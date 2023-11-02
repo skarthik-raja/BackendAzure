@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NauxNFekz27lXimpfwVpTRD/dzgrAgEPxdqDnuXJ/5IUQ5u332T3CZikyp7g6Ui8AuueNfnOXKlDuPSYycgMSg==",
+  "dgSpecHash": "prPVDHNE1OMF3aJF4sgUWTT2xXf4nRYJcSWF7goNdSlbKpcBtjMn6JP04wCXlVdD8zDxMR3SJYkC0aOd3UU4TQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KARTHI\\Desktop\\Final Figma Integration\\ka23-skill-assessment-enduser\\backEnd\\SkillAssessment.csproj",
+  "projectFilePath": "D:\\Final Bigbang\\BackendAzure\\SkillAssessment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KARTHI\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\KARTHI\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KARTHI\\Desktop\\Final Figma Integration\\ka23-skill-assessment-enduser\\backEnd\\SkillAssessment.csproj": {}
+    "D:\\Final Bigbang\\BackendAzure\\SkillAssessment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KARTHI\\Desktop\\Final Figma Integration\\ka23-skill-assessment-enduser\\backEnd\\SkillAssessment.csproj": {
+    "D:\\Final Bigbang\\BackendAzure\\SkillAssessment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KARTHI\\Desktop\\Final Figma Integration\\ka23-skill-assessment-enduser\\backEnd\\SkillAssessment.csproj",
+        "projectUniqueName": "D:\\Final Bigbang\\BackendAzure\\SkillAssessment.csproj",
         "projectName": "SkillAssessment",
-        "projectPath": "C:\\Users\\KARTHI\\Desktop\\Final Figma Integration\\ka23-skill-assessment-enduser\\backEnd\\SkillAssessment.csproj",
+        "projectPath": "D:\\Final Bigbang\\BackendAzure\\SkillAssessment.csproj",
         "packagesPath": "C:\\Users\\KARTHI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KARTHI\\Desktop\\Final Figma Integration\\ka23-skill-assessment-enduser\\backEnd\\obj\\",
+        "outputPath": "D:\\Final Bigbang\\BackendAzure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KARTHI\\AppData\\Roaming\\NuGet\\NuGet.Config",
